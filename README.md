@@ -1,8 +1,6 @@
-# Website Plataforma de Cursos
+# Plataforma de Cursos
  Website Plataforma de Cursos
 <h1 align="center">Site Institucional Responsivo com HTML, CSS, JS</h1>
-
-## [Ver ao vivo](https://am-matheusoliveira.github.io/Website-Plataforma-de-Cursos/)
 
 ## Sobre 
 Treinamento de 3 horas de duração disponibilizado pelo [EGATOR](https://youtu.be/--XrIa-iey0) em seu canal no YouTube. Desde já, agradeço ao mesmo pelo ótimo trabalho!
